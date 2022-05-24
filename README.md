@@ -28,7 +28,7 @@
   >  
   >![image](https://user-images.githubusercontent.com/62626768/169922810-838821f2-9a48-445e-ac4b-bc1b7a70354e.png)
 
-## Medição das Criação das Árvores
+## Medição das Criações das Árvores
    > Foi usado exatamento o mesmo método para as duas árvores.
    > 
    > Para ser mais exato, o tempo foi medido através dos *clocks* do processador.
